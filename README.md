@@ -7,9 +7,11 @@ A modern, responsive, accessible landing page redesign concept for **โรง�
 
 ---
 
-## Visual Preview
+## Visual Preview (Before & After)
 
-![TNS School Landing Page Preview](./preview.png)
+| Before (`https://www.tns.ac.th/`) | After (Updated Landing Page Concept) |
+| :---: | :---: |
+| ![Before — Original TNS Website](./before.png) | ![After — Updated TNS Landing Page](./preview.png) |
 
 ---
 
@@ -76,7 +78,8 @@ A modern, responsive, accessible landing page redesign concept for **โรง�
 ├── index.html      # Semantic HTML5 landing page with all preserved TNS content
 ├── styles.css      # Brand design tokens, multi-level dropdowns, cards & responsive grids
 ├── script.js       # Category tabs, live keyword search, mobile drawer & back-to-top
-├── preview.png     # Desktop preview screenshot
+├── preview.png     # After: updated landing page desktop screenshot
+├── before.png      # Before: original website screenshot
 └── README.md       # Project documentation
 ```
 
