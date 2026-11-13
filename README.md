@@ -9,9 +9,24 @@ A modern, responsive, accessible landing page redesign concept for **โรง�
 
 ## Visual Preview (Before & After)
 
-| Before (`https://www.tns.ac.th/`) | After (Updated Landing Page Concept) |
-| :---: | :---: |
-| ![Before — Original TNS Website](./before.png) | ![After — Updated TNS Landing Page](./preview.png) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center">Before (<code>https://www.tns.ac.th/</code>)</th>
+      <th width="50%" align="center">After (Updated Landing Page Concept)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <img src="./before.png" alt="Before — Original TNS Website" width="100%" />
+      </td>
+      <td width="50%" valign="top" align="center">
+        <img src="./preview.png" alt="After — Updated TNS Landing Page" width="100%" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
