@@ -1,0 +1,1323 @@
+{
+  "school": {
+    "nameTh": "โรงเรียนเตรียมอุดมศึกษาน้อมเกล้า นครราชสีมา",
+    "nameEn": "TRIAMUDOMSUKSANOMKLAO NAKHONRATCHASIMA SCHOOL",
+    "org": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+    "motto": "สำนึกรักษ์บ้านเกิด เป็นเลิศทางวิชาการ สรรค์สร้างคุณธรรม ก้าวล้ำเทคโนโลยี",
+    "address": "เลขที่ 347 หมู่ 12 ถนนโคกกรวด – หนองปลิง ตำบลโคกกรวด อำเภอเมือง จังหวัดนครราชสีมา 30280",
+    "phones": [
+      "044-305167",
+      "062-1987474"
+    ],
+    "email": "tns347m12@gmail.com",
+    "facebook": "https://www.facebook.com/TNNSchool/?locale2=th_TH",
+    "logo": "assets/site/pages/c63b0bb65fd3.png",
+    "heroBanner": "assets/site/pages/5c1a296305b4.jpg",
+    "favicon32": "assets/site/pages/be9990945ba0.png",
+    "favicon192": "assets/site/pages/bceab4dfc8a3.png",
+    "favicon180": "assets/site/pages/0e5d4171723f.png",
+    "marchAudio": "assets/site/audio/f50570ab81e8.mp3"
+  },
+  "staffDirectory": {
+    "topCharts": [
+      "assets/site/pages/fd400154424a.jpg"
+    ],
+    "supportChart": "assets/site/pages/46a86bbbd373.jpg",
+    "sections": [
+      {
+        "department": "คณะผู้บริหาร",
+        "members": [
+          {
+            "name": "นายกันต์พงษ์ อิ่มจิตรจรัส",
+            "position": "ผู้อำนวยการสถานศึกษา",
+            "email": "",
+            "photo": "assets/site/pages/d47f7233b74b.jpg",
+            "hasPhoto": true,
+            "department": "คณะผู้บริหาร"
+          },
+          {
+            "name": "นางสาวสุภรัตน์ ปัดภัย",
+            "position": "รองผู้อำนวยการสถานศึกษา",
+            "email": "suparat@tns.ac.th",
+            "photo": "assets/site/pages/64902dff1c53.jpg",
+            "hasPhoto": true,
+            "department": "คณะผู้บริหาร"
+          },
+          {
+            "name": "นายสถิตย์ ประสังขิณี",
+            "position": "รองผู้อำนวยการสถานศึกษา",
+            "email": "sathit@tns.ac.th",
+            "photo": "assets/site/pages/34a99b676009.jpg",
+            "hasPhoto": true,
+            "department": "คณะผู้บริหาร"
+          }
+        ]
+      },
+      {
+        "department": "กลุ่มสาระการเรียนรู้ภาษาไทย",
+        "members": [
+          {
+            "name": "นายสุนทร ชัยโคตร",
+            "position": "ครู",
+            "email": "soonthorn@tns.ac.th",
+            "photo": "assets/site/pages/a2f4d58dd745.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาไทย"
+          },
+          {
+            "name": "นางวัชราภรณ์ หนองพล",
+            "position": "ครู",
+            "email": "watcharaporn@tns.ac.th",
+            "photo": "assets/site/pages/2e356d7a6624.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาไทย"
+          }
+        ]
+      },
+      {
+        "department": "กลุ่มสาระการเรียนรู้คณิตศาสตร์",
+        "members": [
+          {
+            "name": "นางทิพรัตน์ แสงฤทธิ์",
+            "position": "ครู",
+            "email": "thipparat@tns.ac.th",
+            "photo": "assets/site/pages/69b495ec629a.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้คณิตศาสตร์"
+          },
+          {
+            "name": "นางสาวภัทรียา วงษ์วาลย์",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/6a1628688c99.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้คณิตศาสตร์"
+          },
+          {
+            "name": "นายจิระวิน วงษ์รักษา",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/2e5378720087.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้คณิตศาสตร์"
+          },
+          {
+            "name": "นายคุณัญญา สว่างโสดา",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "",
+            "photo": "assets/site/pages/a8319a8e3f6f.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้คณิตศาสตร์"
+          },
+          {
+            "name": "นางสาววารุณี สายเหนือ",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "กลุ่มสาระการเรียนรู้คณิตศาสตร์"
+          },
+          {
+            "name": "นายศุภวิชญ์ วงษ์ราชบุตร",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "กลุ่มสาระการเรียนรู้คณิตศาสตร์"
+          }
+        ]
+      },
+      {
+        "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี",
+        "members": [
+          {
+            "name": "นายประสงค์ ม่วงนาค",
+            "position": "ครู",
+            "email": "prasong@tns.ac.th",
+            "photo": "assets/site/pages/d6fe1aaaa89b.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นายณัฎฐสิน ตลิ่งไธสง",
+            "position": "ครู",
+            "email": "natthasin@tns.ac.th",
+            "photo": "assets/site/pages/bbb7800f7508.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นายนคร หนองพล",
+            "position": "ครู",
+            "email": "nakhon_chemistry@tns.ac.th",
+            "photo": "assets/site/pages/ebcf0a270b81.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นางนงลักษณ์ ต้วมสูงเนิน",
+            "position": "ครู",
+            "email": "nonglak_tu@tns.ac.th",
+            "photo": "assets/site/pages/5099de318583.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นายวชิรเมธี จอมไธสง",
+            "position": "ครู",
+            "email": "wachiramatee@tns.ac.th",
+            "photo": "assets/site/pages/d4dc94c0a23e.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นางสาวลักณิฌา ลิ่มฮกซี่",
+            "position": "ครู",
+            "email": "trirat@tns.ac.th",
+            "photo": "assets/site/pages/ffa8c41ff629.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นางชมพู่ วงศ์หทัย",
+            "position": "ครู",
+            "email": "chompoo@tns.ac.th",
+            "photo": "assets/site/pages/776462c8ab31.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นางสาวสุพัตรา ไชยสิทธิ์",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "ว่าที่ร้อยตรีคุณาธิป ชาญนรา",
+            "position": "ครู",
+            "email": "Khunatip@tns.ac.th",
+            "photo": "assets/site/pages/95d1fae5695e.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นายธนพล คิดเข่ม",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/e036448dac5d.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นายธนพล เปรมกมล",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/7f00a521bea6.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นางสาวภัทรี ชั้นกลาง",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/ea507ac5f676.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นายนาวิน ชัยไธสง",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/9950faea6492.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นางปรีย์วรา ชอบบัว",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "ampha@tns.ac.th",
+            "photo": "assets/site/pages/a9fea1d9fea8.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          },
+          {
+            "name": "นายเฉลิมเดช ก้องนวกุล",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "Chalermdet@tns.ac.th",
+            "photo": "assets/site/pages/63b8063f0a5f.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี"
+          }
+        ]
+      },
+      {
+        "department": "กลุ่มสาระการเรียนรู้สังคมศึกษา ศาสนาและวัฒนธรรม",
+        "members": [
+          {
+            "name": "ว่าที่ร้อยตรีจิรายุ เอกวิภพ",
+            "position": "ครู",
+            "email": "jirayu@tns.ac.th",
+            "photo": "assets/site/pages/2067496f9e97.png",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้สังคมศึกษา ศาสนาและวัฒนธรรม"
+          },
+          {
+            "name": "จ่าสิบเอกพิพัฒน์ ยงยุทธ",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/f606249c2912.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้สังคมศึกษา ศาสนาและวัฒนธรรม"
+          },
+          {
+            "name": "นางสาวเบญจวรรณ จีนจะโปะ",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "กลุ่มสาระการเรียนรู้สังคมศึกษา ศาสนาและวัฒนธรรม"
+          },
+          {
+            "name": "นางเมทิกา รักไท้",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "methika@tns.ac.th",
+            "photo": "assets/site/pages/7eb6a9c7cc7d.png",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้สังคมศึกษา ศาสนาและวัฒนธรรม"
+          }
+        ]
+      },
+      {
+        "department": "กลุ่มสาระการเรียนรู้สุขศึกษาและพลศึกษา",
+        "members": [
+          {
+            "name": "นายศุภวิทย์ นาโนน",
+            "position": "ครู",
+            "email": "supavit@tns.ac.th",
+            "photo": "assets/site/pages/3e5abaa90233.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้สุขศึกษาและพลศึกษา"
+          },
+          {
+            "name": "นายจิรภัทร แสงจันทร",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "",
+            "photo": "assets/site/pages/8f84cd721fa4.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้สุขศึกษาและพลศึกษา"
+          }
+        ]
+      },
+      {
+        "department": "กลุ่มสาระการเรียนรู้ศิลปะ",
+        "members": [
+          {
+            "name": "นายชีวณวรรธน์ กลางสวัสดิ์",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/099486c6319e.png",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ศิลปะ"
+          },
+          {
+            "name": "นางปิ่นปทุุม วิจารจิตร",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/bb79825d448f.png",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ศิลปะ"
+          },
+          {
+            "name": "นายธนากร เกียนโคกกรวด",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/da9e013a91ad.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ศิลปะ"
+          }
+        ]
+      },
+      {
+        "department": "กลุ่มสาระการเรียนรู้การงานอาชีพ",
+        "members": [
+          {
+            "name": "–",
+            "position": "–",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "กลุ่มสาระการเรียนรู้การงานอาชีพ"
+          }
+        ]
+      },
+      {
+        "department": "กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ",
+        "members": [
+          {
+            "name": "นางสาวจุรีวรรณ กำเนิด",
+            "position": "ครู",
+            "email": "jureewan@tns.ac.th",
+            "photo": "assets/site/pages/c0de8f57de26.png",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ"
+          },
+          {
+            "name": "นางสาวภิญญาพัชญ์ คบด่านกลาง",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/75172e899f38.png",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ"
+          },
+          {
+            "name": "นางสาวจีรนันท์ ครุธาโรจน์",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/61989f63607f.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ"
+          },
+          {
+            "name": "นางสาวสิริพรรณ โพธิจักร",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/f3b4b043bc95.png",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ"
+          },
+          {
+            "name": "นางสาวชนิกา ศรศักดา",
+            "position": "ครู",
+            "email": "",
+            "photo": "assets/site/pages/dc70a4a25233.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ"
+          },
+          {
+            "name": "นางสาวจุรีรัตน์ สารติ",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "Jureerat@tns.ac.th",
+            "photo": "assets/site/pages/b5751b3722f5.png",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ"
+          },
+          {
+            "name": "นายนราธร พงษ์พันนา",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "Narathon@tns.ac.th",
+            "photo": "assets/site/pages/d6adcf822337.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ"
+          },
+          {
+            "name": "Miss Nakato Hadijjah",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "",
+            "photo": "assets/site/pages/dc25d47bd88b.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ"
+          },
+          {
+            "name": "Miss Jia Zhen",
+            "position": "ครูปฏิบัติการสอน",
+            "email": "",
+            "photo": "assets/site/pages/054732b5cf87.jpg",
+            "hasPhoto": true,
+            "department": "กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ"
+          }
+        ]
+      },
+      {
+        "department": "เจ้าหน้าที่ประจำหอพัก",
+        "members": [
+          {
+            "name": "นายธเนศ สมุติรัมย์",
+            "position": "ครูหอพัก",
+            "email": "",
+            "photo": "assets/site/pages/131e1affe4f1.png",
+            "hasPhoto": true,
+            "department": "เจ้าหน้าที่ประจำหอพัก"
+          },
+          {
+            "name": "นายอธิปพงศ์ ศรีจันทึก",
+            "position": "ครูหอพัก",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "เจ้าหน้าที่ประจำหอพัก"
+          },
+          {
+            "name": "นายธนดล สุรอด",
+            "position": "ครูหอพัก",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "เจ้าหน้าที่ประจำหอพัก"
+          },
+          {
+            "name": "นางสาวสิริสุข ชาพล",
+            "position": "ครูหอพัก",
+            "email": "",
+            "photo": "assets/site/pages/0a137d760646.png",
+            "hasPhoto": true,
+            "department": "เจ้าหน้าที่ประจำหอพัก"
+          },
+          {
+            "name": "นางสาวมณฑิตา ลัทธิมนต์",
+            "position": "ครูหอพัก",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "เจ้าหน้าที่ประจำหอพัก"
+          },
+          {
+            "name": "นางสาวพีรญา แจ่มฟ้า",
+            "position": "ครูหอพัก",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "เจ้าหน้าที่ประจำหอพัก"
+          },
+          {
+            "name": "นางสาววรนิษฐา จุ้ยทองหลาง",
+            "position": "ครูหอพัก",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "เจ้าหน้าที่ประจำหอพัก"
+          },
+          {
+            "name": "นางสาวศศิพิมพ์ เที่ยงธรรม",
+            "position": "ครูหอพัก",
+            "email": "",
+            "photo": "assets/site/pages/893c20dd30b3.png",
+            "hasPhoto": false,
+            "department": "เจ้าหน้าที่ประจำหอพัก"
+          }
+        ]
+      }
+    ]
+  },
+  "staffAwards": [
+    {
+      "year": "พ.ศ. 2569",
+      "rows": [
+        {
+          "person": "จ่าสิบเอกพิพัฒน์ ยงยุทธ ตำแหน่ง ครู",
+          "award": "รางวัล “ครูดีเด่น” กลุ่มสาระการเรียนรู้ สังคมศึกษา ศาสนาและวัฒนธรรม ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2569"
+        },
+        {
+          "person": "นายธนพล คิดเข่ม ตำแหน่ง ครู",
+          "award": "รางวัล “ครูดีเด่น” กลุ่มสาระการเรียนรู้วิทยาศาสตร์และเทคโนโลยี (วิทยาศาสตร์) ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2569"
+        }
+      ]
+    },
+    {
+      "year": "พ.ศ. 2568",
+      "rows": [
+        {
+          "person": "นายกันต์พงษ์ อิ่มจิตรจรัส ตำแหน่ง ผู้อำนวยการสถานศึกษา",
+          "award": "รางวัล “คนดีศรีย่าโม” สายงานผู้บริหาร ตำแหน่งผู้อำนวยการสถานศึกษา ประจำปี พ.ศ. 2568",
+          "issuer": "สำนักงานศึกษาธิการจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2568"
+        },
+        {
+          "person": "นายสถิตย์ ประสังขิณี ตำแหน่ง รองผู้อำนวยการสถานศึกษา",
+          "award": "รางวัล “ผู้บริหารดีเด่นสังกัด สำนักบริหารงานการศึกษาพิเศษ” สายงานผู้บริหาร",
+          "issuer": "สมาคมผู้บริหารโรงเรียนมัธยมศึกษาแห่งประเทศไทย",
+          "year": "พ.ศ. 2568"
+        },
+        {
+          "person": "นางสาวสุภรัตน์ ปัดภัย ตำแหน่ง รองผู้อำนวยการสถานศึกษา",
+          "award": "รางวัล “เพชรสามัญ” สายงานผู้บริหาร ตำแหน่ง รองผู้อำนวยการสถานศึกษา ประจำปี พ.ศ. 2568",
+          "issuer": "สำนักงานเขตพื้นที่การศึกษามัธยมศึกษา เขต 31",
+          "year": "พ.ศ. 2568"
+        },
+        {
+          "person": "นางสาวชนิกา ศรศักดา ตำแหน่ง ครู",
+          "award": "รางวัล “ครูดีเด่น” กลุ่มสาระการเรียนรู้ ภาษาต่างประเทศ ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2568"
+        },
+        {
+          "person": "นางวัชราภรณ์ หนองพล ตำแหน่ง ครู",
+          "award": "รางวัล “ครูดีเด่น” กลุ่มสาระการเรียนรู้ภาษาไทย ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2568"
+        },
+        {
+          "person": "นางทิพรัตน์ แสงฤทธิ์ ตำแหน่ง ครู",
+          "award": "รางวัล “ครูดีเด่น” กลุ่มสาระการเรียนรู้คณิตศาสตร์ ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2568"
+        },
+        {
+          "person": "นางสาวจีรนันท์ ครุธาโรจน์ ตำแหน่ง ครู",
+          "award": "รางวัล รองชนะเลิศอันดับ 2 เหรียญทอง การแข่งขันทักษะวิชาการและงานมหกรรมการจัดการศึกษาท้องถิ่น ระดับประเทศ ครั้งที่ 14 ประจําปี พ.ศ. 2568",
+          "issuer": "งานมหกรรมการจัดการศึกษาท้องถิ่น ระดับประเทศ",
+          "year": "พ.ศ. 2568"
+        },
+        {
+          "person": "นางสาวจีรนันท์ ครุธาโรจน์ ตำแหน่ง ครู",
+          "award": "รางวัล เหรียญทอง รองชนะเลิศอันดับ 1 ในการแข่งขันทักษะทางวิชาการ ระดับภาคตะวันออกเฉียงเหนือ ครั้งที่ 30 ระหว่างวันที่ 23 – 25 กรกฎาคม 2568 ณ เทศบาลเมืองร้อยเอ็ด",
+          "issuer": "การแข่งขันทักษะทางวิชาการ ระดับภาคตะวันออกเฉียงเหนือ",
+          "year": "พ.ศ. 2568"
+        },
+        {
+          "person": "นางสาวจีรนันท์ ครุธาโรจน์",
+          "award": "รางวัลชนะเลิศ การเข้าประกวดแข่งขันสื่อนวัตกรรมทางการศึกษา -KORAT PAO Education & Innovation 2025 กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2568"
+        },
+        {
+          "person": "นายสุนทร ชัยโคตร",
+          "award": "รางวัลรองชนะเลิศอันดับ 2 การเข้าประกวดแข่งขันสื่อนวัตกรรมทางการศึกษา -KORAT PAO Education & Innovation 2025 กลุ่มสาระการเรียนรู้ภาษาไทย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2568"
+        },
+        {
+          "person": "จ่าสิบเอกพิพัฒน์​ ยงยุทธ​",
+          "award": "ได้เข้าร่วมการแข่งขัน การเข้าประกวดแข่งขันสื่อนวัตกรรมทางการศึกษา -KORAT PAO Education & Innovation 2025 กลุ่มสาระการเรียนรู้สังคมศึกษา​ ศาสนาและวัฒนธรรม",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2568"
+        }
+      ]
+    },
+    {
+      "year": "พ.ศ. 2567",
+      "rows": [
+        {
+          "person": "นางสาวสาลิณี บวรรัตนพัฒน์ ตำแหน่ง ครู",
+          "award": "รางวัล “ครูผู้สอนดีเด่น” กลุ่มสาระการเรียนรู้ ภาษาต่างประเทศ ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2567"
+        },
+        {
+          "person": "นายเกศว์โกมล ราชวงษ์ ตำแหน่ง ครู",
+          "award": "รางวัล “ครูผู้สอนดีเด่น” กลุ่มสาระการเรียนรู้ การงานอาชีพ ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2567"
+        },
+        {
+          "person": "นางทิพรัตน์ แสงฤทธิ์ ตำแหน่ง ครู",
+          "award": "รางวัล “ครูผู้สอนดีเด่น” กลุ่มสาระการเรียนรู้คณิตศาสตร์ ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2567"
+        }
+      ]
+    },
+    {
+      "year": "พ.ศ. 2566",
+      "rows": [
+        {
+          "person": "นางนัทภา วรรณประพันธ์",
+          "award": "รางวัล “ผู้อำนวยการสถานศึกษาดีเด่น”",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2566"
+        },
+        {
+          "person": "นายสถิตย์ ประสังขิณี ตำแหน่ง รองผู้อำนวยการสถานศึกษา",
+          "award": "รางวัล “รองผู้อำนวยการสถานศึกษาดีเด่น”",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2566"
+        },
+        {
+          "person": "นายกฤษฎา โสภาพล",
+          "award": "รางวัล “ครูอัตราจ้างดีเด่น”",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2566"
+        }
+      ]
+    },
+    {
+      "year": "พ.ศ. 2565",
+      "rows": [
+        {
+          "person": "นายสุนทร ชัยโคตร ตำแหน่ง ครู",
+          "award": "รางวัล “ครูผู้สอนดีเด่น” กลุ่มสาระการเรียนรู้ ภาษาไทย ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2565"
+        },
+        {
+          "person": "นายอุเทน ภูสิลิตร ตำแหน่ง ครู",
+          "award": "รางวัล “ครูผู้สอนดีเด่น” กลุ่มสาระการเรียนรู้คณิตศาสตร์ ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2565"
+        },
+        {
+          "person": "นายศุภวิทย์ นาโนน ตำแหน่ง ครู",
+          "award": "รางวัล “ครูผู้สอนดีเด่น” กลุ่มสาระการเรียนรู้สุขศึกษาและพลศึกษา ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2565"
+        },
+        {
+          "person": "นางสาวจุรีวรรณ กำเนิด ตำแหน่ง ครู",
+          "award": "รางวัล “ครูผู้สอนดีเด่น” กลุ่มสาระการเรียนรู้ ภาษาต่างประเทศ ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2565"
+        },
+        {
+          "person": "นายจิรายุ เอกวิภพ ตำแหน่ง ครู",
+          "award": "รางวัล “ครูดีเด่น” กลุ่มสาระการเรียนรู้ สังคมศึกษา ศาสนาและวัฒนธรรม ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2565"
+        },
+        {
+          "person": "นางชมพู่ วงศ์หทัย ตำแหน่ง ครู",
+          "award": "รางวัล “ครูการเงินดีเด่น”",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2565"
+        },
+        {
+          "person": "นายธัชพล เวชพิทักษ์ ตำแหน่ง ผู้ช่วยเจ้าหน้าที่การเงินและบัญชี",
+          "award": "รางวัล “พนักงานจ้างดีเด่น”",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2565"
+        }
+      ]
+    },
+    {
+      "year": "พ.ศ. 2564",
+      "rows": [
+        {
+          "person": "นายทนงค์ เขียวแก้ว ตำแหน่ง ผู้อำนวยการสถานศึกษา",
+          "award": "รางวัล “คนดีศรีย่าโม” สายงานผู้บริหาร ตำแหน่งผู้อำนวยการสถานศึกษา ประจำปี พ.ศ. 2563",
+          "issuer": "สำนักงานศึกษาธิการจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2564"
+        },
+        {
+          "person": "นายสถิตย์ ประสังขิณี ตำแหน่ง รองผู้อำนวยการสถานศึกษา",
+          "award": "รางวัล “เพชรสามัญ” สายงานผู้บริหาร ตำแหน่ง รองผู้อำนวยการสถานศึกษา ประจำปี พ.ศ. 2563",
+          "issuer": "สำนักงานเขตพื้นที่การศึกษามัธยมศึกษา เขต 31",
+          "year": "พ.ศ. 2564"
+        },
+        {
+          "person": "นางวัชราภรณ์ หนองพล ตำแหน่ง ครู",
+          "award": "รางวัล “เพชรสามัญ” สายงานการสอน กลุ่มสาระการเรียนรู้ภาษาไทย",
+          "issuer": "สำนักงานเขตพื้นที่การศึกษามัธยมศึกษา เขต 31",
+          "year": "พ.ศ. 2564"
+        },
+        {
+          "person": "นายเกศว์โกมล ราชวงษ์ ตำแหน่ง ครู",
+          "award": "รางวัล “ครูผู้สอนดีเด่น” กลุ่มสาระการเรียนรู้ การงานอาชีพ ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2564"
+        },
+        {
+          "person": "นางทิพรัตน์ แสงฤทธิ์ ตำแหน่ง ครู",
+          "award": "รางวัล “ครูผู้สอนดีเด่น” กลุ่มสาระการเรียนรู้คณิตศาสตร์ ระดับมัธยมศึกษาตอนปลาย",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2564"
+        },
+        {
+          "person": "นางสาวขนิษฐา ขอนพุดซา ตำแหน่ง ผู้ช่วยเจ้าหน้าที่การเงินและบัญชี",
+          "award": "รางวัล “พนักงานจ้างดีเด่น”",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2564"
+        }
+      ]
+    },
+    {
+      "year": "พ.ศ. 2563",
+      "rows": [
+        {
+          "person": "นายทนงค์ เขียวแก้ว ตำแหน่ง ผู้อำนวยการสถานศึกษา",
+          "award": "ผู้บริหารสถานศึกษาดีเด่น ด้านนวัตกรรมการบริหารจัดการศึกษาอิเล็กทรอนิกส์ขององค์กรปกครองส่วนท้องถิ่น เพื่อเข้าสู่ประเทศไทย 4.0 ประจำปีการศึกษา 2562 โดยใช้โปรแกรม SBMLD INNOVATION",
+          "issuer": "บริษัท ไอเพาเวอร์ กรุ๊ป จำกัด",
+          "year": "พ.ศ. 2563"
+        },
+        {
+          "person": "นายสถิตย์ ประสังขิณี ตำแหน่ง รองผู้อำนวยการสถานศึกษา",
+          "award": "รางวัล ผู้บริหารสถานศึกษาดีเด่น ประจำปีพุทธศักราช 2562",
+          "issuer": "สมาคมผู้บริหารโรงเรียนมัธยมศึกษา แห่งประเทศไทย",
+          "year": "พ.ศ. 2563"
+        },
+        {
+          "person": "นางสาวสุพัตรา ไชยสิทธิ์ ตำแหน่ง ครู",
+          "award": "ครูผู้สอนดีเด่น ด้านนวัตกรรมการบริหารจัดการศึกษาอิเล็กทรอนิกส์ขององค์กรปกครองส่วนท้องถิ่น เพื่อเข้าสู่ประเทศไทย 4.0 ประจำปีการศึกษา 2562 โดยใช้โปรแกรม SBMLD INNOVATION",
+          "issuer": "บริษัท ไอเพาเวอร์ กรุ๊ป จำกัด",
+          "year": "พ.ศ. 2563"
+        }
+      ]
+    },
+    {
+      "year": "พ.ศ. 2562",
+      "rows": [
+        {
+          "person": "นายประสงค์ ม่วงนาค ตำแหน่ง ครู",
+          "award": "รางวัล ชนะเลิศเหรียญทอง การประกวดสื่อครู กลุ่มสาระการเรียนรู้วิทยาศาสตร์",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2562"
+        },
+        {
+          "person": "นายอภิชาติ โวหารลึก ตำแหน่ง ครู",
+          "award": "รางวัล “ครูดีเด่น” กลุ่มสาระการเรียนรู้สังคมศึกษา ศาสนา และวัฒนธรรม",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2562"
+        },
+        {
+          "person": "นางสาวธนิตา วิจิตวรรณพัสดุ ตำแหน่ง ครู",
+          "award": "รางวัล “ครูอัตราจ้างดีเด่น” กลุ่มสาระการเรียนรู้ภาษาต่างประเทศ",
+          "issuer": "องค์การบริหารส่วนจังหวัดนครราชสีมา",
+          "year": "พ.ศ. 2562"
+        }
+      ]
+    }
+  ],
+  "parentsNetwork": [
+    {
+      "no": "1",
+      "name": "นายสุวัฒน์ จึงวิวัฒนาภรณ์",
+      "room": "",
+      "role": "นายกสมาคม",
+      "note": ""
+    },
+    {
+      "no": "2",
+      "name": "นายกิตติศักดิ์ วรสุนทร",
+      "room": "",
+      "role": "ประธาน",
+      "note": ""
+    },
+    {
+      "no": "3",
+      "name": "นายภูวิศ เรืองพุทธ",
+      "room": "5/1",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "4",
+      "name": "นางดารณี คำสวัสดิ์",
+      "room": "5/1",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "5",
+      "name": "นายธำรงค์ ปรุงเกียรติ",
+      "room": "5/2",
+      "role": "รองประธาน",
+      "note": ""
+    },
+    {
+      "no": "6",
+      "name": "นางวรัญญา จิรเฉลิมพงคณา",
+      "room": "5/2",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "7",
+      "name": "นางมัณฑนา ศรีราง",
+      "room": "5/3",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "8",
+      "name": "นายวาศฤทธิ์ ศิริ",
+      "room": "5/3",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "9",
+      "name": "นางพิมพร อยู่สุขอาบ",
+      "room": "5/4",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "10",
+      "name": "นางพิมพร ปิยปาณานนท์",
+      "room": "5/4",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "11",
+      "name": "นายบุญหนา หีบแก้ว",
+      "room": "6/1",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "12",
+      "name": "นายกิตติศักดิ์ เกิดนอก",
+      "room": "6/2",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "13",
+      "name": "นางพัฒน์นรี พงษ์ประยูร",
+      "room": "6/3",
+      "role": "เหรัญญิก",
+      "note": ""
+    },
+    {
+      "no": "14",
+      "name": "ผู้ช่วยศาสตราจารย์ดุษฎี เทียมเทศ บุญมาสูงทรง",
+      "room": "6/4",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "15",
+      "name": "ร.ท.คมกิต ปลั่งกลาง",
+      "room": "4/1",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "16",
+      "name": "นายชาญวัฒน์ โพธิ์วิทย์",
+      "room": "4/1",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "17",
+      "name": "นายอมรเทพ เทพวิชิต",
+      "room": "4/2",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "18",
+      "name": "นางกรสุภา วงศ์ธิดาภา",
+      "room": "4/2",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "19",
+      "name": "นางสาวปรางทอง ปิยศทิพย์",
+      "room": "4/3",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "20",
+      "name": "นางดวงมณี จันทร์หมื่นไวย",
+      "room": "4/3",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "21",
+      "name": "ดร. พูลศักดิ์ บุตรแก้ว",
+      "room": "4/4",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "22",
+      "name": "นางนันทรัตน์ วงศ์สุทธิรัตน์",
+      "room": "4/4",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "23",
+      "name": "นายศักดิ์สิทธิ์ คุ้มหมื่นไวย",
+      "room": "4/5",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "24",
+      "name": "นางปทิตตา สิทธิสมบัติ",
+      "room": "4/5",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "25",
+      "name": "นางอำไพร เขียวปัญญา",
+      "room": "4/6",
+      "role": "กรรมการ",
+      "note": ""
+    },
+    {
+      "no": "26",
+      "name": "นางภัทราพร ยาพิมาย",
+      "room": "4/6",
+      "role": "กรรมการ",
+      "note": ""
+    }
+  ],
+  "mediaMap": {
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/สำเนาของ-ป้ายประชาสัมพันธ์-วันแม่แห่งชาติ-1-1-1024x517.jpg": "assets/site/pages/5c1a296305b4.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/03/cropped-0236-192x192.png": "assets/site/pages/bceab4dfc8a3.png",
+    "https://www.tns.ac.th/grade-report/img/lg.jpg": "assets/site/pages/682d140b7e4b.jpg",
+    "https://www.tns.ac.th/grade-report/img/lg2.png": "assets/site/pages/a09912dceb08.png",
+    "https://www.tns.ac.th/wp-content/uploads/2021/03/cropped-0236-180x180.png": "assets/site/pages/0e5d4171723f.png",
+    "https://www.tns.ac.th/wp-content/uploads/2021/02/news3.jpg": "assets/site/pages/0e44db2945ab.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/10/news-300x300-1.jpg": "assets/site/pages/b3c9f00f6a4d.jpg",
+    "https://www.tns.ac.th/grade-report/img/logo-tns.png": "assets/site/pages/e0db083e98ea.png",
+    "https://www.tns.ac.th/wp-content/uploads/2021/03/cropped-0236-32x32.png": "assets/site/pages/be9990945ba0.png",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/cropped-cropped-10106509_1_20210417-220931-scaled-1.png": "assets/site/pages/c63b0bb65fd3.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/รองสถิตย์2.jpg": "assets/site/pages/34a99b676009.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/12/S__32137234_0-1-825x1024.jpg": "assets/site/pages/d47f7233b74b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/03/มาร์ชเตรียมอุดมศึกษาน้อมเกล้า.mp3": "assets/site/audio/f50570ab81e8.mp3",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/person.png": "assets/site/pages/893c20dd30b3.png",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/111-1024x512.jpg": "assets/site/pages/fd400154424a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/LINE_ALBUM_รูปบุคลากร_240711_1.jpg": "assets/site/pages/64902dff1c53.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นางวัชรพร.jpg": "assets/site/pages/2e356d7a6624.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/0001-1-edited.jpg": "assets/site/pages/9bead422b0f7.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นายสุนทร.jpg": "assets/site/pages/a2f4d58dd745.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/0001-724x1024.jpg": "assets/site/pages/45d5c846546a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/LINE_ALBUM_รูปบุคลากร_240823_7.jpg": "assets/site/pages/69b495ec629a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/LINE_ALBUM_รูปบุคลากร_240823_1.jpg": "assets/site/pages/2e5378720087.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/บีม.jpg": "assets/site/pages/a8319a8e3f6f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นายณัฐสิน.jpg": "assets/site/pages/bbb7800f7508.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นายวชิรเมธี.jpg": "assets/site/pages/d4dc94c0a23e.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นายธนพล1.jpg": "assets/site/pages/e036448dac5d.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นายคุณาธิป.jpg": "assets/site/pages/95d1fae5695e.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/0002-724x1024.jpg": "assets/site/pages/2c0a1ef3b904.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/LINE_ALBUM_รูปบุคลากร_240823_2.jpg": "assets/site/pages/6a1628688c99.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นายธนพล2.jpg": "assets/site/pages/7f00a521bea6.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/12/LINE_ALBUM_รูปบุคลากร_241219_2-1.jpg": "assets/site/pages/ea507ac5f676.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/สำเนาของ-ป้ายประชาสัมพันธ์-วันแม่แห่งชาติ-1-1.jpg": "assets/site/pages/819a0e3530fa.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นายนคร.jpg": "assets/site/pages/ebcf0a270b81.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/01/ครูไจ.jpg": "assets/site/pages/63b8063f0a5f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/IMG_7517.jpg": "assets/site/pages/9950faea6492.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นางชมพู.jpg": "assets/site/pages/776462c8ab31.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นางนงลักษณ์.jpg": "assets/site/pages/5099de318583.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/451058.jpg": "assets/site/pages/3e5abaa90233.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นางสาวลักณิฌา.jpg": "assets/site/pages/ffa8c41ff629.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นายประสงค์.jpg": "assets/site/pages/d6fe1aaaa89b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ครูแนน.png": "assets/site/pages/7eb6a9c7cc7d.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/LINE_ALBUM_รูปบุคลากร_240823_9.jpg": "assets/site/pages/8f84cd721fa4.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/LINE_ALBUM_รูปบุคลากร_240823_10.jpg": "assets/site/pages/f606249c2912.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ป.png": "assets/site/pages/bb79825d448f.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ครูเอ้.jpg": "assets/site/pages/61989f63607f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/LINE_ALBUM_รูปบุคลากร_240823_15.jpg": "assets/site/pages/da9e013a91ad.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นายจิรายุ.png": "assets/site/pages/2067496f9e97.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ครูแม้ว.png": "assets/site/pages/c0de8f57de26.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ครูปอ.png": "assets/site/pages/b5751b3722f5.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/12/Screenshot-2024-12-20-161433.png": "assets/site/pages/131e1affe4f1.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/มด.png": "assets/site/pages/0a137d760646.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/LINE_ALBUM_รูปบุคลากร_240823_13.jpg": "assets/site/pages/dc25d47bd88b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/พี่แพน.jpg": "assets/site/pages/dc70a4a25233.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/LINE_ALBUM_รูปบุคลากร_240823_14.jpg": "assets/site/pages/054732b5cf87.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/11.png": "assets/site/pages/bd6e6e962c41.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/นราธร.jpg": "assets/site/pages/d6adcf822337.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/03/รูปสูท_210316_53.jpg": "assets/site/pages/a9fea1d9fea8.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ครู.png": "assets/site/pages/75172e899f38.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ทำเนียบผู้บริหาร-รร.png": "assets/site/pages/25c99eb4282b.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/22.png": "assets/site/pages/a61067426e64.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/อ.png": "assets/site/pages/099486c6319e.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/01/ฝ่ายสน-1-777x1024.jpg": "assets/site/pages/46a86bbbd373.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/735178947_1482014240396200_7748485866470077183_n-300x200.jpg": "assets/site/pages/4366dc823a68.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ข้อมูลนักเรียนทั้งหมด.jpg": "assets/site/pages/16faf6945d8e.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/02/image-3.png": "assets/site/pages/35eedff5be5a.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ข้อมูลนักเรียน-ม.4.jpg": "assets/site/pages/4d0da6bc9a44.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/คณะกรรมการสถานศึกษาขั้นพื้นฐาน-1024x724.jpg": "assets/site/pages/0bd4074d527e.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/IMG_0405-824x1024.jpeg": "assets/site/pages/adf952f26fdc.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/MG_1318-300x200.jpg": "assets/site/pages/53665e029883.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ข้อมูลนักเรียน-ม.6.jpg": "assets/site/pages/1f95b241078a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/701829653_1444817190782572_5687672216421931738_n-225x300.jpg": "assets/site/pages/891c64a8bd68.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/พี่ฝน.png": "assets/site/pages/f3b4b043bc95.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/ข้อมูลนักเรียน-ม.5.jpg": "assets/site/pages/7ee350166471.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/02/image-2.png": "assets/site/pages/61cccde9c922.png",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/683010477_1430099135587711_2419109691583784319_n-300x212.jpg": "assets/site/pages/80c41e885ad4.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/04/LINE_ALBUM_เก็บงาน_260428_2-300x225.jpg": "assets/site/pages/1220eda01c81.jpg",
+    "https://www.tns.ac.th/grade-report/file/คู่มือการใช้ระบบสารสนเทศตรวจสอบผลการเรียน.pdf": "assets/site/docs/1ce41619cd96.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2025/01/ประกาศผู้มีสิทธิสอบ-17-มกราคม-2568-1.pdf": "assets/site/docs/4c2c11d7cdf3.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2025/01/ประกาศจ้างผู้ช่วยครู-1.pdf": "assets/site/docs/15c2ca3abe92.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2026/02/โครงสร้างหลักสูตร.pdf": "assets/site/docs/093db0e53e86.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2023/09/ประกาศผู้ผ่านการสรรหา.pdf": "assets/site/docs/b512fd56dce6.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2023/09/ประกาศจ้างผู้ช่วยครู-1.pdf": "assets/site/docs/5e7259fdb3da.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2023/07/ประกาศจ้างครูหอพัก-17-ก.ค.-66.pdf": "assets/site/docs/2bb5d016d046.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2023/04/ประกาศจ้างผู้ช่วยครู.pdf": "assets/site/docs/09ffbf7863ae.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2022/11/ประกาศจ้างผู้ช่วยครู_Eng.pdf": "assets/site/docs/b492df769076.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2022/10/ประกาศจ้างผู้ช่วยครู-12ต.ค.65-1.pdf": "assets/site/docs/cf08a76de16d.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2023/01/เกณฑ์การแข่งขันทักษะทางวิชาการ-งานเปิดบ้านเตรียมน้อมฯโคราช66.pdf": "assets/site/docs/56c4ce5e4fa7.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2022/04/ประกาศเรียกผู้ผ่านการคัดสรร-25-เม.ย.-65-1.pdf": "assets/site/docs/fda12f02022b.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2022/10/ประกาศจ้างครูต่างชาติ12ต.ค.65.pdf": "assets/site/docs/ca7048e61f49.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2025/01/ประกาศรายชื่อนักเรียนที่มีสิทธิ์สอบคัด-7.pdf": "assets/site/docs/ccc09915c1bd.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2024/11/ประกาศรายชื่อนักเรียนมีสิทธิ์ได้รับการพ.pdf": "assets/site/docs/2722c3e1bcfe.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2021/09/ประกาศแผนการจัดซื้อ.pdf": "assets/site/docs/22df0009e514.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/MG_1318-768x512.jpg": "assets/site/images/839e789a041b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/09/เอกสารประกอบการประมูล.pdf": "assets/site/docs/bad169ce0026.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/746743174_1492806705983620_2540217295960990948_n-1024x604.jpg": "assets/site/images/80ef6540c9c8.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2022/04/PDF-Kr.pdf": "assets/site/docs/a7f7041d15cc.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/735178947_1482014240396200_7748485866470077183_n-768x512.jpg": "assets/site/images/b8e217ba8cc8.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/743588873_1492806822650275_2316154004236127715_n-1024x609.jpg": "assets/site/images/4f151fe4fb1a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/732036362_1482014383729519_2057598510761579732_n-1024x576.jpg": "assets/site/images/d9396be79b77.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/737674921_1482014370396187_5273841356095703698_n-1024x683.jpg": "assets/site/images/e71df83dd13d.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/733548846_1482014317062859_186347527051389048_n-1024x683.jpg": "assets/site/images/118fd233e3b3.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/730049947_1482014253729532_4481944916789991903_n-1024x683.jpg": "assets/site/images/923c0b83e0fa.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/701829653_1444817190782572_5687672216421931738_n-768x1024.jpg": "assets/site/images/4d9b7375f1b2.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/07/734356672_1482014300396194_2506424665064994605_n-1024x683.jpg": "assets/site/images/4f97a0a8f56f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/702569120_1444817250782566_6793921283677338046_n-768x1024.jpg": "assets/site/images/80956a3f3d34.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/702232098_1444817194115905_9109040459889573374_n-768x1024.jpg": "assets/site/images/92184b576e74.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/701900987_1444817304115894_71437100614191490_n-1-1024x1002.jpg": "assets/site/images/f4f2d55d74e0.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/700109961_1444817377449220_8642349757473497303_n-768x1024.jpg": "assets/site/images/5d28a3f37cd2.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/683010477_1430099135587711_2419109691583784319_n-768x543.jpg": "assets/site/images/37d642c5b6b2.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/684279475_1430099138921044_3136335324261257447_n-1024x724.jpg": "assets/site/images/8807b48b113f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/684290020_1430099132254378_8594763523625230526_n-1024x724.jpg": "assets/site/images/7e6fb5a131e8.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/10/news-300x300-1-300x300.jpg": "assets/site/images/f8a73bb45df7.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/11/ประกาศรับสมัครรอบพอร์ต-ปี68.pdf": "assets/site/docs/056493b91e03.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2026/04/LINE_ALBUM_เก็บงาน_260428_2-768x576.jpg": "assets/site/images/c4693bb5a179.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/04/S__84582406-1024x768.jpg": "assets/site/images/f29d718b256d.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/05/เอกสาร-157_page-0001-724x1024.jpg": "assets/site/images/270a7ff19eea.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/04/LINE_ALBUM_แข่งขัน_260429_1-1024x768.jpg": "assets/site/images/b892159bc649.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/04/LINE_ALBUM_เก็บงาน_260428_2-1024x768.jpg": "assets/site/images/4151ef0e49e7.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/04/S__84910085-768x1024.jpg": "assets/site/images/fb392977236e.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/02/S__13778953-724x1024.jpg": "assets/site/images/27168d5559a8.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/04/S__84910086-1024x768.jpg": "assets/site/images/7a1c58f77635.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/09/ปปช07.pdf": "assets/site/docs/d93d5e6d1036.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2026/04/S__84795397-1024x768.jpg": "assets/site/images/654d7be4c4cf.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/02/634791420_1368857211711904_3425648268839432989_n-1-768x576.jpg": "assets/site/images/6475318128e4.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/02/633558052_1368857361711889_7932149861720479013_n-1.jpg": "assets/site/images/1fbdecf177cd.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/02/634791420_1368857211711904_3425648268839432989_n-1.jpg": "assets/site/images/83cf80072ff8.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/02/633448396_1368857491711876_9032504885245110733_n-1-771x1024.jpg": "assets/site/images/cf4ec6d2505c.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/02/633781961_1368857481711877_8655631550222753101_n-1-771x1024.jpg": "assets/site/images/df0b756ae25f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/02/633548215_1368857335045225_1745416301511382207_n-1.jpg": "assets/site/images/510be658d9a2.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-16-768x578.jpeg": "assets/site/images/a5919faba776.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-15-768x576.jpeg": "assets/site/images/abf9e44ee349.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-16-1024x770.jpeg": "assets/site/images/15a37ab1dd76.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/02/635102169_1368857165045242_7151682358016701829_n-1.jpg": "assets/site/images/f72837f8e111.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2023/02/ประกาศรายชื่อนักเรียนมีสิทธิ์สอบเข้าคัด.pdf": "assets/site/docs/87c49a9bf9ee.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2022/12/รับสมัครนักเรียน66.pdf": "assets/site/docs/c5d718d70249.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-13-e1768901992546-768x589.jpeg": "assets/site/images/cf916fc19da8.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-15-1024x768.jpeg": "assets/site/images/31bfd87a224e.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-14-1024x768.jpeg": "assets/site/images/94ce5b9b426a.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-14-768x576.jpeg": "assets/site/images/88f8e897a3ad.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-12-768x578.jpeg": "assets/site/images/b4fc885087c4.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-13-768x1024.jpeg": "assets/site/images/0d12a29f684c.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-12-1024x771.jpeg": "assets/site/images/4a8788185909.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2023/01/ประกาศรับสมัครนักเรียน-ครั้งที่2.pdf": "assets/site/docs/8d69c5ec6322.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-11-1024x719.jpeg": "assets/site/images/4de8522f2755.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-10-768x511.jpeg": "assets/site/images/785746faf059.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-11-768x539.jpeg": "assets/site/images/67bf53468049.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-9-768x543.jpeg": "assets/site/images/af6feba5ec99.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-8-768x576.jpeg": "assets/site/images/0c4d0338f770.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-10-1024x681.jpeg": "assets/site/images/c62220f1f91b.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-7-768x512.jpeg": "assets/site/images/ff776ca89de4.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-6-768x576.jpeg": "assets/site/images/49103ed9dcf6.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-6-1024x768.jpeg": "assets/site/images/a65ff18cff35.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-5-768x512.jpeg": "assets/site/images/6320ec495db2.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-5-1024x683.jpeg": "assets/site/images/2d4c91a53338.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2023/01/ประกาศรายชื่อผู้มีสิทธิ์สอบเข้า-ม.4-ปี2566_compressed.pdf": "assets/site/docs/a227187a2bce.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-8-1024x768.jpeg": "assets/site/images/4ca3b12f5330.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/CCF_000219.pdf": "assets/site/docs/9df9eba5b565.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-4-768x576.jpeg": "assets/site/images/fa41eb1c0242.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-7-1024x683.jpeg": "assets/site/images/df39b009ebf5.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-4-1024x768.jpeg": "assets/site/images/ca6e399c7f8d.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-3-768x512.jpeg": "assets/site/images/95e93a4cf5e3.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-3-1024x683.jpeg": "assets/site/images/41c76d84f86a.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-2-768x1061.jpeg": "assets/site/images/c2bc3d6596fc.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/602338349_1325463419384617_1694904871481217267_n-768x512.jpeg": "assets/site/images/390db75f4911.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/599079212_1322808076316818_1340018883005137790_n-1024x1024.jpeg": "assets/site/images/c5beed9847f8.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/599466851_1322807982983494_2228605461570742896_n-1024x1024.jpeg": "assets/site/images/78bba6ceb249.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-2-741x1024.jpeg": "assets/site/images/936b84b179bf.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-1-768x576.jpeg": "assets/site/images/831541b11563.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/600143810_1322807922983500_414654378259709765_n-1024x1024.jpeg": "assets/site/images/1aa20f1be9fe.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/โอลิมปิกค่าย-2-768x384.png": "assets/site/images/c8c6ca85dc5b.png",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/595075328_1315645133699779_6038092216981330881_n-768x576.jpeg": "assets/site/images/45eae59c177a.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/592106919_1310688444195448_3721147365998619479_n-768x576.jpeg": "assets/site/images/c021ac38d29c.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/599511646_1322808119650147_8661009348543744723_n-1024x1024.jpeg": "assets/site/images/7c245df2f5f3.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/600285507_1322807919650167_8111599138496915591_n-1024x1024.jpeg": "assets/site/images/36da5ea90fdd.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-768x576.jpeg": "assets/site/images/5dae5b64fbb4.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/592103214_1310375437560082_9053544058448893067_n-768x577.jpeg": "assets/site/images/94721968c7d3.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/588975841_1304461401484819_313024530227636131_n-1-768x576.jpeg": "assets/site/images/8b6934600ab1.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/image-1024x768.jpeg": "assets/site/images/a021e5ad6808.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/588487367_1304461378151488_3940287715025204253_n-1024x768.jpeg": "assets/site/images/7b46e2d02b29.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/589307718_1306530024611290_7160766486107541815_n-768x512.jpeg": "assets/site/images/cd555e2886ff.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/600197257_1322807879650171_750785852122575094_n-1024x1024.jpeg": "assets/site/images/4c1bbc3134d1.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/580549780_1294746212456338_4244204347844973271_n-768x576.jpeg": "assets/site/images/247f2485a0ef.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/592104203_1309731884291104_4085059820024657627_n-768x1024.jpeg": "assets/site/images/f8f997e8eb8d.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/586460159_1304461964818096_5454969481685859620_n-1024x768.jpeg": "assets/site/images/89ab5a3646bb.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/576381440_1292414192689540_1935834719562200819_n-768x576.jpeg": "assets/site/images/3eef6ebf9595.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/578269366_1292333152697644_3008132292619217531_n-768x576.jpeg": "assets/site/images/719008f2b63b.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/590727019_1309742394290053_1207536072414030457_n-768x512.jpeg": "assets/site/images/aef46cd952d4.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/586551487_1304461434818149_1178609531904767410_n-1024x768.jpeg": "assets/site/images/0bb4f22d01ac.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/578261025_1292068539390772_7561535887703776692_n-768x512.jpeg": "assets/site/images/7f7a0c81be0c.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/11/465729116_1015223687075260_6287550023671232091_n.jpg": "assets/site/images/15e87b58ae5a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/11/465703771_1015223880408574_1464301850975295852_n-1024x572.jpg": "assets/site/images/3033417b06dc.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/11/S__30810217-768x576.jpg": "assets/site/images/4d4a907ac895.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/578243506_1292333149364311_2034452722419305182_n-768x1024.jpeg": "assets/site/images/a8a6bc19072b.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/461004441_984546976809598_4780421693800203506_n.jpg": "assets/site/images/1d5beb0babd2.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/578249273_1291508899446736_6757140407804284434_n-1-768x1024.jpeg": "assets/site/images/6c0a5d00f30d.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/121841-768x576.jpg": "assets/site/images/67c402806ada.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/461175061_984547040142925_685696102287042548_n-768x576.jpg": "assets/site/images/f2bddbc04614.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460974886_984546983476264_2113029645962490259_n.jpg": "assets/site/images/e580fe7b8233.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2026/01/578249273_1291508899446736_6757140407804284434_n-768x1024.jpeg": "assets/site/images/7c89547a7e61.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460839895_983294113601551_5904051385860108857_n-1024x791.jpg": "assets/site/images/89c851e31f72.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/461194594_984547033476259_157147834261847166_n-768x1024.jpg": "assets/site/images/4f82d682b752.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460949250_983294116934884_1539691269452479064_n-1024x791.jpg": "assets/site/images/60d00c16c528.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460897388_983294120268217_5104132334959303307_n-1024x791.jpg": "assets/site/images/bf46359ec3d1.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460839248_983295683601394_8693144616308290220_n-1024x791.jpg": "assets/site/images/d32e52c29f86.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460826428_983311356933160_425694275667969004_n-1024x791.jpg": "assets/site/images/df4355dbdced.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460964060_983299260267703_8378013326165665488_n-1024x791.jpg": "assets/site/images/44af5e738302.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/461106378_983296593601303_2608356516515009073_n-1024x791.jpg": "assets/site/images/9bf96c2b116c.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460951754_983297830267846_1157093025797249799_n-1024x791.jpg": "assets/site/images/8ab164aa18eb.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/461040907_983296590267970_6961442265162214391_n-1024x791.jpg": "assets/site/images/ff420e4c3aa1.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/461135733_983297843601178_8633717628614994683_n-1024x791.jpg": "assets/site/images/8ab4dc8ed8f8.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460940100_983297836934512_3462112616645830539_n-1024x791.jpg": "assets/site/images/631d7937d0e5.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460873151_983297833601179_2696019335462683974_n-1024x791.jpg": "assets/site/images/8b90c0983992.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460951641_983299236934372_3917969204485793663_n-1024x791.jpg": "assets/site/images/6af946526000.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460974882_983299253601037_4813950038666870491_n-1024x791.jpg": "assets/site/images/c7847f3e0c05.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460743169_983319643598998_7284893988197338818_n-768x576.jpg": "assets/site/images/e9167ff767e4.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/461055631_983299223601040_7834328941584698363_n-1024x791.jpg": "assets/site/images/0f0c3477363b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/461032873_983299240267705_6299770851460130711_n-1024x791.jpg": "assets/site/images/4f29845a9235.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/09/TOR.pdf": "assets/site/docs/a548f31af931.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458588371_971954761402153_367143498569595585_n-768x576.jpg": "assets/site/images/91c7dc3cf01f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460650265_981938740403755_5308285278745120812_n-1024x768.jpg": "assets/site/images/9cf46db801d6.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460725941_983319660265663_3801670314378582412_n-768x1024.jpg": "assets/site/images/eac7801b0150.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460717328_981938680403761_2677340979476500174_n-1024x768.jpg": "assets/site/images/806320ad06af.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460401113_981938420403787_4511397254412033345_n-768x576.jpg": "assets/site/images/3f686bf19975.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460888688_983319586932337_7875759870042180047_n-1024x768.jpg": "assets/site/images/37689461dd6f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458326024_971652598099036_1826479119442322718_n-768x576.jpg": "assets/site/images/d5eb6dd5a2bd.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460903630_981938730403756_4295240368078963309_n-1024x768.jpg": "assets/site/images/3ea4aa4678af.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/460728449_983319580265671_1333747584972978743_n-1024x738.jpg": "assets/site/images/166cf1680161.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458295191_972112144719748_7263637483937525362_n-1024x580.jpg": "assets/site/images/e1cf054eea71.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458750816_971954648068831_7258385724050479542_n-698x1024.jpg": "assets/site/images/c2d84097d914.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458603167_971652371432392_5246333650553380008_n-1024x768.jpg": "assets/site/images/03df8d02982b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458256025_969862271611402_6171005694343465782_n.jpg": "assets/site/images/060d71250f6a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458364822_971652491432380_2381269994556666785_n-1024x768.jpg": "assets/site/images/d1c6fe3f3837.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458269998_970199068244389_2046888043162777108_n-768x576.jpg": "assets/site/images/7107c1a529be.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/image-1-1024x791.png": "assets/site/images/9d13ffe39802.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458116733_970969804833982_7757141131480863460_n-733x1024.jpg": "assets/site/images/99cb08ebe660.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/456113961_961763032421326_1218152531745893451_n-1024x576.jpg": "assets/site/images/28fb9623b336.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458302544_970969848167311_3161992995370315061_n-1024x768.jpg": "assets/site/images/dd5957fca248.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/457064479_964595792138050_5797584325268217771_n-1024x768.jpg": "assets/site/images/9728507cb1b7.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/456482650_961763402421289_6720261122702760476_n-768x576.jpg": "assets/site/images/26a3a150eb00.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/456331924_962584845672478_1708292753346871043_n-1024x768.jpg": "assets/site/images/aa51b0e9508c.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/457059571_964595852138044_8072656310159254370_n-1-768x393.jpg": "assets/site/images/88a79fe1fdab.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/456458353_962584855672477_5805212069448851092_n-768x1024.jpg": "assets/site/images/f7bd1629bd83.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/458480481_970969818167314_495043206523296452_n-1024x768.jpg": "assets/site/images/1050134f6b6e.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/457059571_964595852138044_8072656310159254370_n-1024x523.jpg": "assets/site/images/8ac049992bf2.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/456446365_961762962421333_3940016666742331112_n-1024x576.jpg": "assets/site/images/5301f9dd1b5c.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/455817394_961759989088297_6799634050476738809_n-768x512.jpg": "assets/site/images/2b8eb30d1f71.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/455626108_959734965957466_6750049054016803336_n-1024x768.jpg": "assets/site/images/201d1a53a523.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/09/456824709_964595895471373_842993906293960006_n-1024x768.jpg": "assets/site/images/30edd890a379.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/456175369_961759902421639_5461208076169226451_n-1024x683.jpg": "assets/site/images/17cc44c206fd.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/455652236_959735052624124_2260420626639391773_n-768x576.jpg": "assets/site/images/266d6d83ef6e.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/1-768x576.jpg": "assets/site/images/d2db026eb262.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/456184728_961763252421304_1603241929585984208_n-1024x768.jpg": "assets/site/images/5c30d22b1296.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/455321369_959734952624134_5983838603687702205_n-1024x768.jpg": "assets/site/images/0ace67b188e8.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/456451685_961760042421625_8492713081692051934_n-1024x768.jpg": "assets/site/images/25aa3d76bece.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/455949849_959133229350973_8049671661564424122_n-768x512.jpg": "assets/site/images/8261418fb0d4.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/09/ประกาศโรงเรียน.pdf": "assets/site/docs/c71e17e1c789.pdf",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/455353693_957736666157296_6226791187407667726_n-768x432.jpg": "assets/site/images/94f59a49af63.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/2-1-1024x768.jpg": "assets/site/images/9585c853a261.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/3-1024x768.jpg": "assets/site/images/4353271ee0f1.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/455130333_957736592823970_2355151684622224619_n-1024x576.jpg": "assets/site/images/26c58f07e745.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/455248165_957736782823951_8385658959952961221_n-1024x768.jpg": "assets/site/images/365cc2ce04dc.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/455108245_957736816157281_2944815803036679778_n-1024x768.jpg": "assets/site/images/8dc19e5f65e9.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/454668563_955280726402890_1886020292900421430_n-768x576.jpg": "assets/site/images/14ec8967d191.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/image-5-1024x683.png": "assets/site/images/244b78b5e563.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/454762421_954972523100377_9106971781353782135_n-768x512.jpg": "assets/site/images/358ba490d61a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/454953806_954972503100379_8601494079251205114_n-1024x768.jpg": "assets/site/images/86e16d5b750d.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/454769379_954972873100342_3680465271415080667_n-768x1024.jpg": "assets/site/images/f92d16e20474.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/image-4-1024x683.png": "assets/site/images/ffd3a36e827f.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/453902793_951445636786399_1440470175806194935_n-768x576.jpg": "assets/site/images/44b30addb931.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/453979019_951445823453047_4236246587921008069_n-1-1024x768.jpg": "assets/site/images/4697cfa75756.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/453893217_951445630119733_1240677495360312924_n-1024x768.jpg": "assets/site/images/1aeb1b8277d1.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/454007375_951445830119713_4921115770904268867_n-1-1024x768.jpg": "assets/site/images/2ea464e40c63.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/454283330_952111406719822_4804890978286841452_n-768x511.jpg": "assets/site/images/1f66a78dfcae.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/453978114_951445676786395_6750267452501476878_n-1024x768.jpg": "assets/site/images/e3a8f026bc9c.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/454960806_955282049736091_2222121666647124468_n-1024x768.jpg": "assets/site/images/c84cce7c4344.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/452941163_945615960702700_7628720251704060980_n-1024x768.jpg": "assets/site/images/9371589c740b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/452940713_945572694040360_2432274974204098818_n-768x576.jpg": "assets/site/images/587059af1299.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/image-6-1024x768.png": "assets/site/images/f4ba59443622.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/452998814_945616097369353_4637525084407854780_n-1024x768.jpg": "assets/site/images/0c281308da3d.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/452976050_945572960707000_6686204754195221486_n-1024x768.jpg": "assets/site/images/93ee3bd45348.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/1-768x576.jpg": "assets/site/images/737dfe06d6f9.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/453008108_945569924040637_4112965811733235460_n-1024x768.jpg": "assets/site/images/07beed430878.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/452905196_945565760707720_1118409449350395636_n-1024x768.jpg": "assets/site/images/e30e27f32e0d.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/452893884_945616154036014_1460555001793443847_n-1024x768.jpg": "assets/site/images/c201161c6960.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/453187678_945616187369344_8233272762356312503_n-768x576.jpg": "assets/site/images/5fcad2a8cd48.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/2-1024x768.jpg": "assets/site/images/18df3bfba155.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/3-1024x768.jpg": "assets/site/images/6218c7a05390.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/image-2-1024x768.png": "assets/site/images/8f65365f6362.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/7-1024x768.jpg": "assets/site/images/683a3b7ff602.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/10-1024x768.jpg": "assets/site/images/15e4e8e2ebec.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/9-1024x768.jpg": "assets/site/images/0af188c4a1aa.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/454006887_952111436719819_6714323737528438950_n-927x1024.jpg": "assets/site/images/3ba91c5527f3.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/8-1024x768.jpg": "assets/site/images/7d76b9d3d0c7.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/5-1024x768.jpg": "assets/site/images/c9ed8c50aac5.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/image-1024x891.png": "assets/site/images/423f6537ff9a.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/4-1024x768.jpg": "assets/site/images/d9fc5c3f0d0a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/450369254_936167724980857_3371040149856850688_n-1024x683.jpg": "assets/site/images/32c685bb07c9.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/08/image-1-1024x768.png": "assets/site/images/341147f6d3e0.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/image-2-768x576.png": "assets/site/images/928c080ab079.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/05/444503259_906927804571516_8197425724744738668_n-768x576.jpg": "assets/site/images/5fafd90ccefc.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/05/442413751_906927897904840_3919941245962206668_n-1024x768.jpg": "assets/site/images/9c3822943c73.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/image-1-1024x683.png": "assets/site/images/dbbb9cfd9117.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/05/444487818_906927621238201_9070461405356520580_n-1024x768.jpg": "assets/site/images/2a2c739856e0.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/05/LINE_ALBUM_ประดับเข็มพระเกี้ยว-สภา_๒๔๐๕๒๒_1-1024x768.jpg": "assets/site/images/6cb8386a1902.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2022/10/news-300x300-1.jpg": "assets/site/images/e5f5c224fdd6.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2023/09/377698171_763779842219647_1251778988631329571_n-768x497.jpg": "assets/site/images/38f762c6a0ac.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/image-3-1024x768.png": "assets/site/images/380334954adb.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/05/LINE_ALBUM_ประดับเข็มพระเกี้ยว-สภา_๒๔๐๕๒๒_3-1024x768.jpg": "assets/site/images/a6ff14deb97b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2023/09/377698171_763779842219647_1251778988631329571_n-1024x663.jpg": "assets/site/images/2ad8f13705e0.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/image-1024x683-1-768x512.png": "assets/site/images/f910800987e0.png",
+    "https://www.tns.ac.th/wp-content/uploads/2024/05/LINE_ALBUM_ประดับเข็มพระเกี้ยว-สภา_๒๔๐๕๒๒_4-768x576.jpg": "assets/site/images/5caa8900f105.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2023/09/375675748_762661205664844_1333071391746095744_n-768x576.jpg": "assets/site/images/ac6b523d685f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/image-6-1024x768.png": "assets/site/images/417682931fa4.png",
+    "https://www.tns.ac.th/wp-content/uploads/2023/09/375675748_762661205664844_1333071391746095744_n-1024x768.jpg": "assets/site/images/7977cc513b7b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/02/news-300x300.jpg": "assets/site/images/b84a281040a2.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/image-5-768x1024.png": "assets/site/images/d645abf7a044.png",
+    "https://www.tns.ac.th/wp-content/uploads/2022/04/275258461_362054132593676_6427663525535340680_n-768x512.jpeg": "assets/site/images/c6e802f92292.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2022/04/ประกาศผู้มีสิทธิสอบ23-เม.ย.65_Page_01-1-756x1024.jpg": "assets/site/images/656734c6121b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/02/news3-300x300.jpg": "assets/site/images/69a3f90cbe38.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/11/ประกาศผู้มีสิทธิสอบ-724x1024.jpg": "assets/site/images/c5ee4d9dd034.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2022/04/257251301_290412573091166_1374756249003019673_n-768x512.jpeg": "assets/site/images/12e54689ecaa.jpeg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/12/ประกาศจ้างครูหอพัก_Page_1-727x1024.jpg": "assets/site/images/e4674569de64.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/10/S__28786718-732x1024.jpg": "assets/site/images/7845712d179f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/10/ประกาศจ้างครูปฏิบัติการสอน25-ต.ค.-64_Page_1-726x1024.jpg": "assets/site/images/38709f345b90.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/10/43887-729x1024.jpg": "assets/site/images/bbf4faf274ca.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/image-2-1024x768.png": "assets/site/images/4abef2219711.png",
+    "https://www.tns.ac.th/wp-content/uploads/2021/10/S__28786716-708x1024.jpg": "assets/site/images/d9f87c61b429.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศผู้ผ่านการสรรหา-29-มิ.ย.-64_Page_1-728x1024.jpg": "assets/site/images/f754b9d572e2.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศผู้ผ่านการสรรหา-29-มิ.ย.-64_Page_2-724x1024.jpg": "assets/site/images/8155b6cfb924.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศจ้างครูปฏิบัติการสอน_Page_3-724x1024.jpg": "assets/site/images/d41e8aa3dba8.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศจ้างครูปฏิบัติการสอน_Page_4-732x1024.jpg": "assets/site/images/64d73538433f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศจ้างครูปฏิบัติการสอน_Page_5-724x1024.jpg": "assets/site/images/b12fbc04552b.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/image-7-1024x768.png": "assets/site/images/4739c1dcb133.png",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศ-โควิด-ภาคเรียนที่-1-2564_0001-724x1024.jpg": "assets/site/images/70cb937939ba.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศจ้างครูปฏิบัติการสอน_Page_1-727x1024.jpg": "assets/site/images/4ba9436c6ef9.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศผู้มีสิทธิสอบ-758x1024.jpg": "assets/site/images/2bfc4686900c.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศจ้างครูปฏิบัติการสอน_Page_2-724x1024.jpg": "assets/site/images/42f7232d804e.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศ-โควิด-ภาคเรียนที่-1-2564_0005-724x1024.jpg": "assets/site/images/4cf5efdc6eea.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/07/image-724x1024.png": "assets/site/images/cd9988f5e8c0.png",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศ-โควิด-ภาคเรียนที่-1-2564_0006-724x1024.jpg": "assets/site/images/99a6d02d271a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2024/07/image-4-1024x768.png": "assets/site/images/de6c51cf83b3.png",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศ-โควิด-ภาคเรียนที่-1-2564_0008-724x1024.jpg": "assets/site/images/41b12ed11de9.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศ-โควิด-ภาคเรียนที่-1-2564_0007-724x1024.jpg": "assets/site/images/bf1886ac0546.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศ-โควิด-ภาคเรียนที่-1-2564_0003-724x1024.jpg": "assets/site/images/7457f127d95e.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/1-725x1024.jpg": "assets/site/images/133aac8d3cf5.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศ-โควิด-ภาคเรียนที่-1-2564_0002-724x1024.jpg": "assets/site/images/2ec320d08787.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/ประกาศ-โควิด-ภาคเรียนที่-1-2564_0004-724x1024.jpg": "assets/site/images/00d762c0b9f1.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/USB-0034_Page_1-724x1024.jpg": "assets/site/images/a297af349e5c.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/ประกาศผู้ผ่านการสรรหาและเลือกสรรเป็นพนั_Page_1-758x1024.jpg": "assets/site/images/0e717ff75b55.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/USB-0034_Page_3-724x1024.jpg": "assets/site/images/df263607f571.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/3-725x1024.jpg": "assets/site/images/d85741f3676f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/4-725x1024.jpg": "assets/site/images/03ba0f164ea5.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/3.-โรงอาหาร-724x1024.jpg": "assets/site/images/89f9c6b2d13d.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/ประกาศผู้ผ่านการสรรหาและเลือกสรรเป็นพนั_Page_2-724x1024.jpg": "assets/site/images/c3b71e5e4a34.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/USB-0034_Page_4-724x1024.jpg": "assets/site/images/7d21c471d142.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/USB-0034_Page_2-724x1024.jpg": "assets/site/images/f3ea946f1cc5.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/4.-ซักอบรีด-724x1024.jpg": "assets/site/images/6da95577b74a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/06/2-725x1024.jpg": "assets/site/images/91f5332cb1c2.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/2.-เครื่องดื่ม-724x1024.jpg": "assets/site/images/08b1e1275e64.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/03/151158819_1173625279727909_4683248946087647760_o-1024x683.jpg": "assets/site/images/28e05e30b10d.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/03/151158819_1173625279727909_4683248946087647760_o-768x512.jpg": "assets/site/images/91477fd0b994.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/03/154162922_1178196552604115_3246286769732297981_o-768x512.jpg": "assets/site/images/64a1b563232a.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/ประกาศผู้มีสิทธิเข้ารับการสรรหาและเลือก-1-758x1024.jpg": "assets/site/images/6199516a313f.jpg",
+    "https://www.tns.ac.th/wp-content/uploads/2021/05/1.-มินิมาร์ท-724x1024.jpg": "assets/site/images/248dd7b434f7.jpg"
+  }
+}

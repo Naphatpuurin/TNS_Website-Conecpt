@@ -1,0 +1,10 @@
+{
+  "name": "tns-landing-page",
+  "version": "1.0.0",
+  "description": "Modern landing page concept for Triamudomsuksanomklao Nakhonratchasima School (TNS)",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}

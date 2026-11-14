@@ -84,32 +84,44 @@ A modern, responsive, accessible landing page redesign concept for **โรง�
   - 4 embedded YouTube showcase videos (ISMT Science-Math curriculum, ANURAKTNS13 conservation camp, school introduction, and Digital Arts & Science track 2568).
 - **ข่าวการจัดซื้อจัดจ้าง (5 items):** Audio system procurement tender, FY2564 procurement plan, PAO property auction winners, laundry facility lease, and canteen lease announcements.
 
+### 4. Full Website Overhaul (25 HTML Pages + Cached Media)
+- **25 Cohesive Pages:** Dedicated overhauled pages for school info (`about.html`, `curriculum.html`, `contact.html`, `academic-works.html`, `staff-students.html`, `onet.html`), organization & divisions (`organization.html` with 53 staff profiles across 10 sections + live search, `board.html`, `parents-alumni.html`, `division-*.html`), awards (`awards.html`, `awards-school.html`, `awards-staff.html` with 8-year tabs `2569`–`2562`, `awards-students.html`), archives & reader (`news.html`, `activities.html`, `procurement.html`, `article.html` covering 120 posts), and services (`services.html`, `info-hub.html`, `grade-report.html`).
+- **Local Assets & Data:** Cached school media (`assets/site/`, `assets/chrome_saved/`) and structured datasets (`data/posts.json`, `data/site.json`).
+
 ---
 
 ## Project Structure
 
 ```text
 .
-├── index.html      # Semantic HTML5 landing page with all preserved TNS content
-├── styles.css      # Brand design tokens, multi-level dropdowns, cards & responsive grids
-├── script.js       # Category tabs, live keyword search, mobile drawer & back-to-top
-├── preview.png     # After: updated landing page desktop screenshot
-├── before.png      # Before: original website screenshot
-└── README.md       # Project documentation
+├── index.html              # Home landing page
+├── about.html ...          # 24 inner/archive/article HTML pages (25 HTML pages total)
+├── styles.css              # Shared TNS design system, inner layouts, tabs & responsive rules
+├── script.js               # Search, filters, lightbox, tabs, PDF preview & article renderer
+├── server.js               # Node HTTP dev server (live reload + PDF/MP3 byte-range streaming)
+├── package.json            # Zero-dependency Node script entrypoint (`npm start`)
+├── data/                   # JSON datasets (`posts.json`, `site.json`)
+├── assets/                 # Cached images, PDFs, audio & Chrome-saved assets
+├── preview.png             # After: updated landing page desktop screenshot
+├── before.png              # Before: original website screenshot
+└── README.md               # Project documentation
 ```
 
 ---
 
 ## Running Locally
 
-Because this is a pure static HTML/CSS/JS project with zero build dependencies, you can preview it in seconds:
+Zero third-party packages are required — just Node.js (or any static server):
 
-1. **Direct Browser Open:** Double-click `index.html` to open it in any modern browser.
-2. **Local HTTP Server (Recommended):**
+1. **Node Live Server (Recommended, supports PDF/MP3 range streaming):**
+   ```bash
+   npm start
+   ```
+   Then visit [http://127.0.0.1:8123/](http://127.0.0.1:8123/).
+2. **Or Static Python Server:**
    ```bash
    python -m http.server 8123
    ```
-   Then visit [http://localhost:8123/](http://localhost:8123/).
 
 ---
 
